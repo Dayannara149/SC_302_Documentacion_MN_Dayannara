@@ -1,1 +1,6 @@
-# SC_302_Documentacion_MN_Dayannara
+# SC\_302\_Documentacion\_MN\_Dayannara
+
+
+
+Esta es mi primera práctica con GitHub.
+
